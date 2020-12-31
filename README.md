@@ -23,4 +23,4 @@ d’une même étoile de manière précise, ce qui vous donne un tableau de poin
 >Le polynôme d’interpolation de Lagrange est le polynôme unique d’ordre n, qui
 passe exactement par ces (n+1) points
 ><br><img src="3.png">
-><br><center><img src="4.png"></center>
+><br><centre><img src="4.png">
