@@ -1,9 +1,9 @@
 # Projects_NUM_ANALYSIS
 
-*[Integ.py](#Integ.py)
-<br>*[Mine.py](#Mine.py)
-<br>*[RungePh.py](#RungePh.py)
-<br>*[tk_gui.py](#tk_gui.py)
+- [Integ.py](#Integ.py)
+<br>- [Mine.py](#Mine.py)
+<br>- [RungePh.py](#RungePh.py)
+<br>- [tk_gui.py](#tk_gui.py)
 
 
 
