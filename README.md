@@ -7,9 +7,8 @@
 
 
 
-## Projet: Phenomène de  Runge 
-
+## Mon Projet: Phenomène de  Runge 
 
 <br><img src="GIF.gif"> <br>
-<br><bold>Polynôme d’interpolation de Lagrange<br>
+# Polynôme d’interpolation de Lagrange
 
