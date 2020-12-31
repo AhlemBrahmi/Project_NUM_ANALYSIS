@@ -15,6 +15,6 @@
 Vous êtes astronome dans le 15ième siècle et vous étudiez le mouvement des étoiles à
 l’aide d’un télescope. Chaque nuit pas forcément à la même heure vous mesurez la position
 d’une même étoile de manière précise, ce qui vous donne un tableau de points de mesure 
-<br><img src="1.png">
+><br><img src="1.png">
 >### Sous forme graphique
 ><br><img src="2.png">
