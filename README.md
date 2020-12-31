@@ -18,3 +18,6 @@ d’une même étoile de manière précise, ce qui vous donne un tableau de poin
 <br><img src="1.png">
 >### Sous forme graphique
 ><br><img src="2.png">
+>avec . A partir de ces mesures, on souhaite obtenir une idée de la position
+de l’étoile f(x) à tout instant x.
+Interpolation : Extrapolation :
