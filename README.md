@@ -1,6 +1,9 @@
 # Project_NUM_ANALYSIS
 
-
+*Integ.py
+*Mine.py
+*RungePh.py
+*tk_gui.py
 
 
 
