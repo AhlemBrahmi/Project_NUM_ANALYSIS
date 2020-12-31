@@ -17,4 +17,4 @@ l’aide d’un télescope. Chaque nuit pas forcément à la même heure vous me
 d’une même étoile de manière précise, ce qui vous donne un tableau de points de mesure 
 <br><img src="1.png">
 >### Sous forme graphique
-><br>
+><br><img src="2.png">
