@@ -25,5 +25,7 @@ passe exactement par ces (n+1) points
 ><br><img src="3.png">
 ><br><img src="4.png">
 ><br><img src="5.png">
+## 1.2. Quelques exemples simples
+><br> Le polynôme de Lagrange, passant par 2 points, est une droite 
 ><br><img src="6.png">
 
