@@ -33,5 +33,5 @@ passe exactement par ces (n+1) points
 ## 1.3 Estimation de l’erreur
 > <br>Si on approche une fonction f(x) par un polynôme d’interpolation, on fera évidemmentn des erreurs : 
 ><br><img src="8.png">
-#Conclusion
+# Conclusion
 >augmenter l’ordre d’un polynôme n’augmente pas forcément la précision de l’interpolation, bien au contraire. Mieux faut-il interpoler par morceaux utilisant des polynômes de bas ordre. 
