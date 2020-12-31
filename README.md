@@ -30,3 +30,6 @@ passe exactement par ces (n+1) points
 ><br><img src="6.png">
 ><br> Le polynôme de Lagrange, passant par 3 points, est un parabole
 ><br><img src="7.png">
+## 1.3 Estimation de l’erreur
+> <br>Si on approche une fonction f(x) par un polynôme d’interpolation, on fera évidemmentn des erreurs : 
+><br><img src="8.png">
